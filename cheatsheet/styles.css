@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavenderblush;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+table {
+    border: 2px solid rebeccapurple;
+    width: 650px;
+    margin: 0px auto 35px auto;
+}
+
+thead {
+    background-color: plum;
+    height: 25px;
+}
+
+td {
+    border: .5px solid rebeccapurple;
+}
+
+.code {
+    font-family: monospace;
+    background-color: thistle;
+}
+
+#unit {
+    width: 57.35px;
+}
